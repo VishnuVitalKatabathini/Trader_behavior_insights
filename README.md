@@ -74,12 +74,7 @@ This project analyzes the relationship between **Bitcoin Market Sentiment (Fear 
 
 1. **Clone the repo:** `git clone <repo-link>`
 2. **Install dependencies:** `pip install -r requirements.txt`
-3. **Run Analysis:** Open `analysis_notebook.ipynb` to see the full data pipeline.
-4. **Launch Dashboard:**
-```bash
-streamlit run app.py
-
-```
+3. **Run Analysis:** Open `trader_behavior_insights.ipynb` to see the full data pipeline.
 
 
 
@@ -87,12 +82,8 @@ streamlit run app.py
 
 ## 📬 Contact & Submission
 
-* **Name:** [Your Name]
-* **Role:** Junior Data Scientist Applicant
-* **Email:** [Your Email]
+* **Name:** [Vishnu Vital Katabathini]
+* **Role:** Junior Data Scientist - Trader Behavior Insights
+* **Email:** [vishnuvitalk@gmail.com]
 
 ---
-
-### Final Next Step:
-
-Would you like me to help you format the **final email** to Sonika and the Primetrade team, including the subject line and the links as they requested?
