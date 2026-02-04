@@ -67,7 +67,6 @@ This project analyzes the relationship between **Bitcoin Market Sentiment (Fear 
 3. **Retail/Gamblers:** High frequency, inconsistent PnL.
 
 
-* **Dashboard:** A **Streamlit** application was developed to allow real-time exploration of trader metrics filtered by sentiment.
 
 ---
 
